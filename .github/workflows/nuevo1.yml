@@ -1,7 +1,7 @@
 name: Github Action de prueba
-on
+on:
   push:
-
+  
 jobs: 
   mostrar_mensaje:
     runs-on: ubuntu-latest
